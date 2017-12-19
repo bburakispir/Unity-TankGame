@@ -1,0 +1,11 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="tank2_red1.png" x="0" y="0" width="141" height="165"/>
+	<SubTexture name="tank2_red2.png" x="185" y="0" width="141" height="166"/>
+	<SubTexture name="tank2_red3.png" x="361" y="0" width="142" height="165"/>
+	<SubTexture name="tank2_blue1.png" x="0" y="198" width="151" height="168"/>
+	<SubTexture name="tank2_blue2.png" x="182" y="199" width="149" height="166"/>
+	<SubTexture name="tank2_blue3.png" x="362" y="198" width="150" height="167"/>
+	<SubTexture name="tank2_green1.png" x="0" y="403" width="150" height="202"/>
+	<SubTexture name="tank2_green2.png" x="181" y="403" width="151" height="202"/>
+	<SubTexture name="tank2_green3.png" x="361" y="403" width="151" height="202"/>
+</TextureAtlas>
